@@ -29,7 +29,7 @@ const cardsArray = [
       img: 'img/lemon.png',
     },
     {
-      name: 'stawberry',
+      name: 'strawberry',
       img: 'img/stawberry.png',
     },
     {
@@ -41,7 +41,7 @@ const cardsArray = [
       img: 'img/pineapple.png',
     },
     {
-      name: 'sandwitch',
+      name: 'sandwich',
       img: 'img/sandwitch.png',
     },
     {
